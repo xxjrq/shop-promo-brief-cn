@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#F4E9DC"/>
+  <rect x="0" width="880" height="900" fill="#FFF9F1"/>
+  <text x="112" y="344" fill="#273B32" font-family="PingFang SC, sans-serif" font-size="70" font-weight="700">店铺活动执行简报</text>
+  <text x="118" y="420" fill="#E85D4A" font-family="PingFang SC, sans-serif" font-size="34" font-weight="600">活动文案与执行清单</text>
+  <text x="118" y="485" fill="#55645D" font-family="PingFang SC, sans-serif" font-size="26">确认资料，快速协作上线</text>
+  <image href="icon-512.png" x="990" y="194" width="510" height="510"/>
+</svg>

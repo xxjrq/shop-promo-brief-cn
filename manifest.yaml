@@ -1,0 +1,32 @@
+name: shop-promo-brief-cn
+slug: shop-promo-brief-cn
+display_name: 店铺活动执行简报
+description: 根据商家已确认的商品、库存、折扣、活动日期与经营目标，输出一次店铺促销的活动主张、页面或海报文案和执行待办。适用于新品、清仓、节日和会员活动；缺少商品、库存、优惠、日期或目标时，先给出缺项与补充问题，不虚构材料、不替商家改价，也不承诺转化率。
+version: 1.0.0
+icon: icon-512.png
+repository: https://github.com/xxjrq/shop-promo-brief-cn
+license: MIT
+tags:
+  - 电商运营
+  - 促销活动
+  - 文案策划
+  - 执行清单
+trigger_words:
+  - 店铺活动简报
+  - 促销页面文案
+  - 活动执行待办
+interface:
+  display_name: "店铺活动执行简报"
+  short_description: "将确认的促销资料整理成一份可直接协作执行的活动简报"
+  default_prompt: "使用 $shop-promo-brief-cn 根据我确认的商品、库存、优惠、日期和目标生成活动执行简报；内部筹备日期若未确认逐项标建议，缺料时仅列实际缺项。"
+  icon_small: "./icon-512.png"
+  icon_large: "./icon-512.png"
+policy:
+  allow_implicit_invocation: true
+self_test: "bash scripts/self-test.sh"
+seo:
+  title: 店铺活动执行简报
+  keywords:
+    - 店铺促销
+    - 活动文案
+    - 执行清单
