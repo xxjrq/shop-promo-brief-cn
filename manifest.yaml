@@ -2,7 +2,7 @@ name: shop-promo-brief-cn
 slug: shop-promo-brief-cn
 display_name: 店铺活动执行简报
 description: 根据商家已确认的商品、库存、折扣、活动日期与经营目标，输出一次店铺促销的活动主张、页面或海报文案和执行待办。适用于新品、清仓、节日和会员活动；缺少商品、库存、优惠、日期或目标时，先给出缺项与补充问题，不虚构材料、不替商家改价，也不承诺转化率。
-version: 1.0.0
+version: 1.0.1
 icon: icon-512.png
 repository: https://github.com/xxjrq/shop-promo-brief-cn
 license: MIT
